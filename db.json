@@ -1,0 +1,382 @@
+{
+    "brands": [
+        {
+            "id": 1,
+            "brandID": 1001,
+            "name": "Zara"
+        },
+        {
+            "id": 2,
+            "brandID": 1002,
+            "name": "Lacoste"
+        },
+        {
+            "id": 3,
+            "brandID": 1003,
+            "name": "Nike"
+        },
+        {
+            "id": 4,
+            "brandID": 1004,
+            "name": "Moschino"
+        },
+        {
+            "id": 5,
+            "brandID": 1005,
+            "name": "Ted Baker"
+        },
+        {
+            "id": 6,
+            "brandID": 1006,
+            "name": "H&M"
+        },
+        {
+            "id": 7,
+            "brandID": 1007,
+            "name": "UNIQLO"
+        },
+        {
+            "id": 8,
+            "brandID": 1008,
+            "name": "Adidas"
+        },
+        {
+            "id": 9,
+            "brandID": 1009,
+            "name": "Tommy Hilfiger"
+        },
+        {
+            "id": 10,
+            "brandID": 1010,
+            "name": "Mango"
+        }
+    ],
+    "Jackets": [
+        {
+            "id": 1,
+            "jID":1111,
+            "Jcolor":"black",
+            "size":42,
+            "brandID": 1009,
+            "price":45000
+        },
+        {
+            "id": 2,
+            "jID":1112,
+            "Jcolor":"pink",
+            "size":42,
+            "brandID": 1009,
+            "price":45000
+        },
+        {
+            "id": 3,
+            "jID":1113,
+            "Jcolor":"black",
+            "size":44,
+            "brandID": 1009,
+            "price":45000
+        },
+        {
+            "id": 4,
+            "jID":1114,
+            "Jcolor":"white",
+            "size":42,
+            "brandID": 1005,
+            "price":70000
+        },
+        {
+            "id": 5,
+            "jID":1115,
+            "Jcolor":"black",
+            "size":42,
+            "brandID": 1004,
+            "price":65000
+        },
+        {
+            "id": 6,
+            "jID":1116,
+            "Jcolor":"white",
+            "size":42,
+            "brandID": 1004,
+            "price":80000
+        },
+        {
+            "id": 7,
+            "jID":1117,
+            "Jcolor":"beige",
+            "size":42,
+            "brandID": 1001,
+            "price":25000
+        },
+        {
+            "id": 8,
+            "jID":1118,
+            "Jcolor":"black",
+            "size":44,
+            "brandID": 1001,
+            "price":20000
+        },
+        {
+            "id": 9,
+            "jID":1119,
+            "Jcolor":"green",
+            "size":42,
+            "brandID": 1010,
+            "price":28000
+        },
+        {
+            "id": 10,
+            "jID":1120,
+            "Jcolor":"black",
+            "size":42,
+            "brandID": 1010,
+            "price":28000
+        }
+    ],
+    "Skirts": [
+        {
+            "id": 1,
+            "skID":6100,
+            "SKcolor":"black",
+            "size":42,
+            "brandID": 1010,
+            "price":12000
+        },
+        {
+            "id": 2,
+            "skID":6101,
+            "SKcolor":"white",
+            "size":44,
+            "brandID": 1005,
+            "price":28000
+        },
+        {
+            "id": 3,
+            "skID":6102,
+            "SKcolor":"beige",
+            "size":42,
+            "brandID": 1004,
+            "price":31000
+        },
+        {
+            "id": 4,
+            "skID":6103,
+            "SKcolor":"black",
+            "size":44,
+            "brandID": 1007,
+            "price":17000
+        },
+        {
+            "id": 5,
+            "skID":6104,
+            "SKcolor":"pink",
+            "size":42,
+            "brandID": 1009,
+            "price":34000
+        },
+        {
+            "id": 6,
+            "skID":6105,
+            "SKcolor":"white",
+            "size":44,
+            "brandID": 1007,
+            "price":21000
+        },
+        {
+            "id": 7,
+            "skID":6106,
+            "SKcolor":"black",
+            "size":42,
+            "brandID": 1006,
+            "price":11000
+        },
+        {
+            "id": 8,
+            "skID":6107,
+            "SKcolor":"green",
+            "size":44,
+            "brandID": 1010,
+            "price":19000
+        },
+        {
+            "id": 9,
+            "skID":6108,
+            "SKcolor":"pink",
+            "size":42,
+            "brandID": 1002,
+            "price":28000
+        },
+        {
+            "id": 10,
+            "skID":6109,
+            "SKcolor":"beige",
+            "size":44,
+            "brandID": 1001,
+            "price":28000
+        }
+    ],
+    "Dresses": [
+        {
+            "id": 1,
+            "DID":2211,
+            "Dcolor":"beige",
+            "size":44,
+            "brandID": 1006,
+            "price":28000
+        },
+        {
+           "id": 2,
+            "DID":2212,
+            "Dcolor":"black",
+            "size":42,
+            "brandID": 1001,
+            "price":31000
+        },
+        {
+            "id": 3,
+            "DID":2213,
+            "Dcolor":"beige",
+            "size":44,
+            "brandID": 1002,
+            "price":40000
+        },
+        {
+            "id": 4,
+            "DID":2214,
+            "Dcolor":"white",
+            "size":42,
+            "brandID": 1005,
+            "price":45000
+        },
+        {
+            "id": 5,
+            "DID":2215,
+            "Dcolor":"gray",
+            "size":44,
+            "brandID": 1007,
+            "price":38000
+        },
+        {
+            "id": 6,
+            "DID":2216,
+            "Dcolor":"black",
+            "size":42,
+            "brandID": 1009,
+            "price":50000
+        },
+        {
+            "id": 7,
+            "DID":2217,
+            "Dcolor":"white",
+            "size":44,
+            "brandID": 1009,
+            "price":59000
+        },
+        {
+            "id": 8,
+            "DID":2218,
+            "Dcolor":"yellow",
+            "size":42,
+            "brandID": 1004,
+            "price":90000
+        },
+        {
+            "id": 9,
+            "DID":2219,
+            "Dcolor":"pink",
+            "size":44,
+            "brandID": 1004,
+            "price":105000
+        },
+        {
+            "id": 10,
+            "DID":2220,
+            "Dcolor":"green",
+            "size":42,
+            "brandID": 1009,
+            "price":12000
+        }
+    ],
+    "Shoes": [
+        {
+            "id": 1,
+            "SHID":3331,
+            "SHcolor":"green",
+            "size":37,
+            "brandID": 1003,
+            "price":33000
+        },
+        {
+            "id": 2,
+            "SHID":3332,
+            "SHcolor":"black",
+            "size":38,
+            "brandID": 1003,
+            "price":35000
+        },
+        {
+            "id": 3,
+            "SHID":3333,
+            "SHcolor":"pink",
+            "size":37,
+            "brandID": 1008,
+            "price":36000
+        },
+        {
+            "id": 4,
+            "SHID":3334,
+            "SHcolor":"black",
+            "size":37,
+            "brandID": 1008,
+            "price":35000
+        },
+        {
+            "id": 5,
+            "SHID":3335,
+            "SHcolor":"green",
+            "size":38,
+            "brandID": 1002,
+            "price":28000
+        },
+        {
+            "id": 6,
+            "SHID":3336,
+            "SHcolor":"white",
+            "size":37,
+            "brandID": 1005,
+            "price":29000
+        },
+        {
+            "id": 7,
+            "SHID":3337,
+            "SHcolor":"beige",
+            "size":37,
+            "brandID": 1001,
+            "price":19000
+        },
+        {
+            "id": 8,
+            "SHID":3338,
+            "SHcolor":"gray",
+            "size":38,
+            "brandID": 1009,
+            "price":32000
+        },
+        {
+            "id": 9,
+            "SHID":3339,
+            "SHcolor":"black",
+            "size":37,
+            "brandID": 1002,
+            "price":34000
+        },
+        {
+            "id": 10,
+            "SHID":3340,
+            "SHcolor":"brown",
+            "size":38,
+            "brandID": 1004,
+            "price":53000
+        }
+    ]
+}
